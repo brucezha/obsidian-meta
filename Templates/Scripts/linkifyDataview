@@ -1,0 +1,9 @@
+function linkifyArrayOrObject(dataviewResults) {
+	if (Array.isArray(dataviewResults)) {
+		dataviewResults.map((x) => linkify(x)).join(", ");
+	} else {
+		return `[[${dataviewResults}]]`;
+	}
+}
+
+module.exports = linkifyArrayOrObject;
