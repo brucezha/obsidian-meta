@@ -6,7 +6,6 @@ lowlights:
 const {CalendarHelper} = customJS;
 const today = CalendarHelper.getDateFromDailyFile(tp);
 %>
-
 # <% CalendarHelper.generateDailyTitle(today) %>
 
 <% CalendarHelper.generateYesterdayLink(tp) %> | <% CalendarHelper.generateTomorrowLink(tp) %>

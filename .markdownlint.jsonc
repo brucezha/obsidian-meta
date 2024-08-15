@@ -1,0 +1,8 @@
+{
+	"MD010": false,
+	// This makes some templates too long with whitespace around scripts.
+	"blanks-around-headings": false,
+	"first-line-heading": false,
+	"line-length": false,
+	"no-hard-tabs": false
+}

@@ -6,12 +6,9 @@ lowlights:
 const {CalendarHelper} = customJS;
 const today = CalendarHelper.getDateFromYearlyFile(tp)
 %>
-
 # <% CalendarHelper.dateFormattedAsYear(today) %>
 
 <% CalendarHelper.generatePreviousYearLink(tp) %> | <% CalendarHelper.generateNextYearLink(tp) %>
-
-# <% today.format("yyyy")%>
 
 ## Yearly review
 

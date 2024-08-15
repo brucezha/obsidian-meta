@@ -6,7 +6,6 @@ lowlights:
 const {CalendarHelper} = customJS;
 const today = CalendarHelper.getDateFromWeeklyFile(tp)
 %>
-
 # <% CalendarHelper.generateWeeklyTitle(today) %>
 
 <% CalendarHelper.generatePreviousWeekLink(tp) %> | <% CalendarHelper.generateNextWeekLink(tp) %>

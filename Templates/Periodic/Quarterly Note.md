@@ -6,7 +6,6 @@ lowlights:
 const {CalendarHelper} = customJS;
 const today = CalendarHelper.getDateFromQuarterlyFile(tp)
 %>
-
 # <% CalendarHelper.generateQuarterlyTitle(today) %>
 
 <% CalendarHelper.generatePreviousQuarterLink(tp) %> | <% CalendarHelper.generateNextQuarterLink(tp) %>

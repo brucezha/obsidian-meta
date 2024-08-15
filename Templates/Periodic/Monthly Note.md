@@ -6,7 +6,6 @@ lowlights:
 const {CalendarHelper} = customJS;
 const today = CalendarHelper.getDateFromMonthlyFile(tp)
 %>
-
 # <% CalendarHelper.generateMonthlyTitle(today) %>
 
 <% CalendarHelper.generatePreviousMonthLink(tp) %> | <% CalendarHelper.generateNextMonthLink(tp) %>
