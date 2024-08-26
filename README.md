@@ -13,7 +13,7 @@ This is the Meta directory for my Obsidian vaults. This is shared across differe
   - Used for generating tables from metadata
 - [Media DB](obsidian://show-plugin?id=obsidian-media-db-plugin)
   - Helps collect data about media I'm consuming
-- [Meta Bind](obsidian://show-plugin?id=obsidian-meta-bind-plugin)
+- -eta Bind](obsidian://show-plugin?id=obsidian-meta-bind-plugin)
   - Used to edit ratings and so on in [[#Media DB]] pages
 - [Periodic Notes](obsidian://show-plugin?id=periodic-notes)
   - For journaling.
@@ -39,6 +39,9 @@ This is the Meta directory for my Obsidian vaults. This is shared across differe
 - Toggle the `Enable Javascript` setting on
 
 ### Periodic Notes
+
+> [!warning]
+> Disable the built-in `Daily Notes`  "Core Plugin", it can cause confusion.
 
 - Set the Destination folders for each type of periodic note
 - DO NOT set templates in this plugin
