@@ -13,7 +13,7 @@ This is the Meta directory for my Obsidian vaults. This is shared across differe
   - Used for generating tables from metadata
 - [Media DB](obsidian://show-plugin?id=obsidian-media-db-plugin)
   - Helps collect data about media I'm consuming
-- -eta Bind](obsidian://show-plugin?id=obsidian-meta-bind-plugin)
+- [Meta Bind](obsidian://show-plugin?id=obsidian-meta-bind-plugin)
   - Used to edit ratings and so on in [[#Media DB]] pages
 - [Periodic Notes](obsidian://show-plugin?id=periodic-notes)
   - For journaling.
